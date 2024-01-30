@@ -10,6 +10,7 @@ class SliderListPage extends StatelessWidget {
         children: [
           _MainScroll(),
           Positioned(
+            
             bottom: 0,
             right: -10,
             child: _BotonNewList()
